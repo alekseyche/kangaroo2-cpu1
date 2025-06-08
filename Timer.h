@@ -14,14 +14,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
-#include <string>
-#ifdef WIN64
 
 #ifndef TIMERH
 #define TIMERH
 
 #include <time.h>
 #include <string>
+#include <cstdint>
 #ifdef WIN64
 #include <windows.h>
 #endif
