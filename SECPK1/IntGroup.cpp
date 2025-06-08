@@ -16,7 +16,7 @@
 */
 
 #include "IntGroup.h"
-
+#include <cstdlib>
 using namespace std;
 
 IntGroup::IntGroup(int size) {
