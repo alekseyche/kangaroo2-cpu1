@@ -1,4 +1,3 @@
---- Content of Kangaroo.h ---
 /*
  * This file is part of the BSGS distribution (https://github.com/JeanLucPons/Kangaroo).
  * Copyright (c) 2020 Jean Luc PONS.
